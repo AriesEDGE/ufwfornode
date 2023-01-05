@@ -64,7 +64,7 @@ shell一键作者：
 
 ​	Aries: TG频道 
 
-[@aries_init]: https://t.me/aries_init
+@aries_init
 
 (写的很烂，大佬勿喷)
 
@@ -76,10 +76,10 @@ Python加白作者
 
 ​	TG 
 
-[@UniOreoX]: https://t.me/unioreox
+@UniOreoX
 
 ​	TG频道: 
 
-[@unichannelx]: https://t.me/unichannelx
+@unichannelx
 
 油腻牛逼！

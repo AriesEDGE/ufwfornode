@@ -8,6 +8,8 @@ bash <(curl -Ls https://github.com/AriesEDGE/ufwfornode/releases/download/real/u
 
 # 说明
 
+给你的Vmess/Trojan...直连节点加上白名单，降低滥用概率.
+
 原理：
 
 ufw防火墙监听白名单
@@ -52,7 +54,7 @@ Python后台监听采用nohup
 
 # Bug
 
-1.加白后只能直连，无法使用CloudFlare CDN连接
+1.加白后只能直连，无法使用CDN IP连接(通常指套了CDN的节点，不过加白就没必要，不如去CDN站设置防火墙)
 
 2.部分地区的数据流量可能无法认证
 
